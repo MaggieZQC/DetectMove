@@ -1,18 +1,13 @@
-**DetectMove**
-example of how the code detect move
-<img width="294" alt="image" src="https://user-images.githubusercontent.com/108711023/183978424-dd6a16f0-1c19-4ddc-8893-37b6391bc0d3.png">
+**Bicyclists on the Pacific Coast Bike Route in Santa Barbara: Characteristics, Diversity, and Purpose**
 
-**Using DvrScan to seperate moving video**
-- Create a directory called temp in c:\
-- Beginning with the first file (chronologically) of the 24 hr day, rename them 1.avi through 10.avi or 11.avi, depending on how many there are
-  Type cmd in the command box
-- Copy and paste the program below, substituting the date of the 24 hr collection in place of 8_18 below
-
-cd c:/temp
-dvr-scan -i 1.AVI -i 2.AVI -i 3.AVI -i 4.AVI -i 5.AVI -i 6.AVI -i 7.AVI -i 8.AVI -i 9.AVI -i 10.AVI -i 11.avi -i 12.avi -o 9_1-motion.avi -roi_
-
-When the process is done, the videos would be seperated. 
-
-Below is the abstract of our paper
+**Abstract **
+Introduction: California's Active Transportation Program (ATP) provides funding to local agencies to bicycling and walking, with the goals of improving health, decreasing greenhouse gasses, and increasing equity. However, documenting progress towards these goals is challenging. For example, demonstrating effects on health and climate change requires establishing that bicycling was an alternative to inactivity and commuting by automobile, respectively. In addition, information on gender, age, race, and income is needed to measure equity. In anticipation of improvements in a network of bikeways in Santa Barbara County, we developed and evaluated methods to estimate the extent to which changes in the characteristics, diversity, and purpose of bicycling could be measured. 
+ 
+Methods: From June through October 2021, we conducted two-hour direct observations on Wednesdays (4 to 6 PM) and Saturdays (11 AM to 1 PM) along the Pacific Costs bicyc;le route, which connects the city of Santa Barbara to the local U`niversity fo niversity. We estimated age, gender, race/ethnicity, helmet usage, bicycle type (conventional or electric), bicyclist clothing (bicycle or street), and purpose (commuting or recreation). A video recording was used to count the number of bicyclists per day. We excluded counts on days with large, organized rides (>100 riders) and those with inclement weather. Descriptive statistics were used to measure the number of cyclists, compare characteristics of riders, and explore associations between variables. We calculated sample sizes required to estimate the number of the two- and 24-hour counts necessary to establish statistical significance a in future prospective study. 
+ 
+Results: We included 38 of the counts conducted over 22 weeks. During 24 hr counts, the mean (SD) cyclists per day was 747 (69) on Saturdays and 575 (57) on Wednesdays. The number of cyclists observed during the 2 hr counts on Saturdays and Wednesdays was 24% and 20 % of the 24 hr counts, respectively. In the 2 hr counts, most cyclists were adult (94%), white (93%), wearing helmets (90%), and male (77%).  The proportion of commuters was greater on Wednesdays (27%) than Saturdays (9%). In logistic regression, non-use of helmets was most strongly related to street clothing (OR 6.3, 95% CI 5.2 7.9),  being a person of color (OR 5.0, 95% CI 6.2-7.9), and male gender (OR 1.5, 95% CI 1.2-1.8). Following the opening of the new bike path, 15 24-hr counts or 25 2-hr counts would be needed to reach statistical significance if a 10% increase in the number of bicyclists occurs. 
+ 
+Conclusion: The stability in the number of cyclists during the period indicates that our methods can determine if there are statistically significant changes in the daily number of riders in the future. While the classification of the characteristics of bicyclists based on visual observation is not definitive, most riders appeared to be adult, white, male, and recreational riders, suggesting there is ample opportunity increase the number of commuters, women, children, minorities, and users of bicycle helmets.  However, larger sample sizes will be needed to show that the bikeway improvements lead to statistically significant changes these characteristics.  
+ 
 
 
